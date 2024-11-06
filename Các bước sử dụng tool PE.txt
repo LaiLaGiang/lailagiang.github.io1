@@ -1,0 +1,30 @@
+Các bước sử dụng tool PE
+
+B1 
+Mở folder tool: 
+Window + R -> nhập %appdata% -> Folder (Files,Adobe)
+Chạy  task Run ADMIN ( wifi cheat)
+Click trái + kéo lên hiện (4Start) tool hoạt động
+
+B2
+Đổi lại mạng Exam sau đó đăng nhập vào PEA
+Sau đó Download Given Materials
+Chụp ảnh thủ công đề PEA
+Click giữ trái + kéo trái
+
+B3
+Zip files Given Materials (đặt tên không có ký tự đặc biệt, không dấu, không cách)
+Sau đó đổi mạng về Wifi cheat 
+Vất files zip given vào folder (Hocpe)
+Copy pate nó ra 3-4 lần đợi Khoảng 5 phút rồi chuyển lại về Exam
+
+B4
+Vào phần mềm code làm như bình thường 
+Còn khoảng 20 -30 phút cuối vào lại folder (Hocpe)
+Ctrl + E or Ctrl + R để nhận đáp án
+Sau khi có đáp án các bạn chuyển về Exam kiểm tra đáp án gửi vào
+
+B5
+Sau khi thấy đáp án ngon rồi thì các bạn có thể nộp bài
+
+
