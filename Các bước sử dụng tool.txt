@@ -31,4 +31,4 @@ Thao tác 2-3 lần mỗi lần cách nhau 30s - 1 phút để cho nó ổn đ�
 Hoặc đợi giám thị đi lên trên bảng hoặc bàn giáo viên 
 Ctrl + Alt +Del để check wifi
 
-Tắt tool (Tùy vào setting mỗi người thường là Alit + A) rồi nộp này
+Tắt tool (Tùy vào setting mỗi người thường là Alit + B) rồi nộp này
