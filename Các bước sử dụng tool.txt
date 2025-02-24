@@ -1,8 +1,10 @@
-Các bước thi mutiple
-B1:
-Mở folder tool: 
-Window + R -> nhập %appdata% -> Folder (Files,Adobe)
-Chạy  task Run ADMIN ( wifi cheat)
+B1: 
+Mở tool Ctrl F2 or Ctrl + FN + F2
+Chọn Room :
+Room test : ME:user.....
+Room SP(danh  cho những bạn không book sp ) : SP:user......
+Room + Mã môn (dành cho những bạn book sp) : Mã môn
+Vào setting sfol lại phần mềm thì rồi save là xong
 Click trái + kéo lên hiện (4Start) tool hoạt động
 B2:
 Đổi lại mạng Exem đăng nhập vào EOS
